@@ -4,6 +4,8 @@
 
 Policy search API in response to: https://climatepolicyradar.notion.site/Software-Engineer-Technical-Task-25dd74893e49490b975301c5045d736d
 
+Simple REST API on top of Postgresql and utilising Postgresql full text capabilities.
+
 ## Usage
 
 ### Requirements
